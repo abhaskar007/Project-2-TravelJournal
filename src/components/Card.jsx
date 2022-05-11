@@ -1,17 +1,7 @@
-// import React from 'react'
-
-// export default function card(props) {
-//   return (
-//     <div>
-//         <img src={props.imageUrl}/>
-//     </div>
-//   )
-// }
-
 
 import React from "react"
 import { GoLocation } from 'react-icons/go'
-import { Link } from "react-router-dom"
+
 
 
 export default function Card(props) {
